@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samy-oussaidene and I'm currently looking for an internship for 6 months !
-- 🌱 I’m currently learning the master « Signal processing and machine learning for big data » in Polytechnic University of Madrid (ETSIT). 
+- 👋 Hi, I’m @samy-oussaidene and I'm currently a data scientist in a bank company.
+- 🌱 I followed the master « Signal processing and machine learning for big data » in Polytechnic University of Madrid (ETSIT) and got my engineer diploma at ENSEA.
 - 💞️ I’m looking for collaborating to apply my knowledge and learn new ones from senior and expert.
 - 📫 How to reach me: samy.oussaidene12@gmail.com
 
